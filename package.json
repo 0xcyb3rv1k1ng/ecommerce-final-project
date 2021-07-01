@@ -7,7 +7,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "lhcp-pages -d build",
-    "start": "node server/server.js",
+    "start": "node backend/server",
     "build": "react-scripts build",
     "server": "nodemon backend/server",
     "client": "npm start --prefix frontend",
