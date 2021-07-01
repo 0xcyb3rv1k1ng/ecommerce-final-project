@@ -4,7 +4,7 @@
   "description": "MERN shopping cart app",
   "main": "server.js",
   "type": "module",
-  "homepage": "https://github.com/kji304/ecommerce-final-project/tree/branch2",
+  
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "lhcp-pages -d build",
